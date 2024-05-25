@@ -55,7 +55,7 @@ Example:
 ## Warning
 
 - Changing the code is NOT ALLOWED!!    
-- You are free to use this code in any of your projects, but you MUST include the following in your README.md (Copy & paste)
+- You are free to use this code in any of your projects, but you MUST include the following in your README.md ([Copy & paste](https://github.com/mrrevires/CountdownTimer-TeLeTiPs))
 
 ```
 ## Credits
